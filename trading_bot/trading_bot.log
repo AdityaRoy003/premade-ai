@@ -1,0 +1,5 @@
+2026-07-02 19:50:05,652 - trading_bot - [DEBUG] - client.py:23 - Initializing BinanceFuturesClient with API Key: None
+2026-07-02 19:50:05,653 - trading_bot - [DEBUG] - client.py:33 - Synchronizing clock with Binance Futures server...
+2026-07-02 19:50:07,066 - trading_bot - [INFO] - client.py:47 - Clock synchronized. Offset: 2272 ms (estimated latency: 706.38 ms)
+2026-07-02 19:50:07,075 - trading_bot - [DEBUG] - client.py:109 - HTTP Request: GET https://testnet.binancefuture.com/fapi/v1/ping | Headers: {} | Params: {}
+2026-07-02 19:50:08,198 - trading_bot - [DEBUG] - client.py:122 - HTTP Response Status: 200
